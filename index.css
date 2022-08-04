@@ -43,7 +43,7 @@ background-size: cover;
     border-radius: 10px;    
     margin-top: 10%;
     display: flex;
-    width: min(100% - 2rem, 600px);
+    width: min(100% - 5rem, 600px);
     margin-inline: auto;
     text-align: center;
     background-color: #ffaa00;
