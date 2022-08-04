@@ -43,7 +43,7 @@ background-size: cover;
     border-radius: 10px;    
     margin-top: 10%;
     display: flex;
-    width: min(100% - 5rem, 600px);
+    width: auto;
     margin-inline: auto;
     text-align: center;
     background-color: #ffaa00;
@@ -71,6 +71,8 @@ li{
     background: transparent;
     border-bottom: solid #960B5D 1px;
     margin-bottom: 40px;
+    text-align: center;
+    font-weight: 600;
 }
        
 
